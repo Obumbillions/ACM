@@ -2,7 +2,7 @@ section {
     margin: 80px 0;
     background-color: #FFFFFF;
     font-family: poppins;
-    
+    overflow: hidden;
 }
 
 .date {
@@ -65,4 +65,8 @@ h2, h1 {
 .ppp {
     font-weight: 600;
     font-size: 15px;
+}
+
+.img img {
+    width: 70%;
 }
