@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.col-image {
+    background-image: url(../img/Group\ 2.svg);
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.col-img {
+    background-image: url(../img/Diamond.svg);
+    background-repeat: no-repeat;
+    height: 100vh;
+}

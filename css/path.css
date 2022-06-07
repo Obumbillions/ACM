@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.topy{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.video-box, .navbar-brand img{
+    width: 70px;
+}
+.box img{
+    height: 257px;
+    width: 282px;
+}

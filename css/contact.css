@@ -1,0 +1,57 @@
+.blue-text {
+    color: blue;
+}
+
+.img-section img {
+    width: 120px;
+    height: 120px;
+}
+
+.logo-section {
+    margin-bottom: 60px;
+} 
+
+h1 {
+    font-size: 46px;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+.socials, .form-section {
+    margin-bottom: 90px;
+}
+
+.socials img {
+    height: 30px;
+    width: 30px;
+}
+
+.socials button {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.form-section .input1 {
+    width: 100%;
+    border-radius: 25px;
+    height: 40px;
+    box-shadow: 0px 6px 9px rgba(55, 146, 193, 0.4);
+    border: none;
+}
+
+.form-section .input2 {
+    width: 100%;
+    border-radius: 25px;
+    height: 40px;
+    box-shadow: 0px 6px 9px rgba(55, 146, 193, 0.4);
+    border: none;
+}
+
+.form-section textarea {
+    width: 100%;
+    border-radius: 25px;
+    box-shadow: 0px 6px 9px rgba(55, 146, 193, 0.4);
+    border: none;
+}
